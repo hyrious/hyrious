@@ -31,6 +31,9 @@ changelog tracker: like rsshub?
 
 rssiew: rsshub + devdocs
    try to read subscriptions quickly
+
+hooky: transform everything into web hooks
+   maillist -> rss -> webhooks
 ```
 
 ```
@@ -47,6 +50,9 @@ notes: yet another note app, web/electron
 ```
 vanilla: a library which does everything (new age jquery)
    and rollup does tree shaking
+
+rollupc: a rollup wrapper which reads rollup.config.ts
+   learn this tech from vite
 ```
 
 ```
@@ -59,4 +65,9 @@ ewe: experimental web game engine
 hyrush: cross platform "ruby on shells"
    ruby does very well on cross-platform works, maybe its also good to make shell?
    yeah I know some bash.exe or pwsh or elves/elvish, but ruby is so powerful...
+```
+
+```
+kui: quick ux iteration
+   a roadmap to quickly make a maintainable web ui
 ```
