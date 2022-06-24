@@ -6,6 +6,6 @@ graph TD;
     C-->D;
 ```
 
-TeX: $ E = mc^2 $
+$ E = mc^2 - \LaTeX $
 
 $$ e^{ \pm i\theta } = \cos \theta \pm i\sin \theta $$
