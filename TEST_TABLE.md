@@ -1,7 +1,9 @@
 ---
 layout: home
-haha:
-  hehe: 42
+obj:
+  key: 42
+array: [1,2,3]
+complex: [1,2,null,{"x":"y"}]
 ---
 
 
