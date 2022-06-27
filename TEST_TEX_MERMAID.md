@@ -26,3 +26,4 @@ Another small updates: `**Note**` (case-sensitive) at the beginning of blockquot
 > ```rb
 > /^>\s*\*\*Note\*\*/
 > ```
+> `> **Note** xxx`
