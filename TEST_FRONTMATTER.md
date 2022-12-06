@@ -15,3 +15,9 @@ footnote[^1]
 <i-hello />
 <i-world></i-world>
 <i-meow word="hello, world!"></i-meow>
+
+- - -
+
+> **Note**: TEST _Script Element_ below
+
+<script src="https://example.org" type="module"></script>
