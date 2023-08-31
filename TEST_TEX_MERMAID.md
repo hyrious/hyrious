@@ -17,13 +17,13 @@ There's a little bug in inline latex expressions, you can only trigger it via ei
 
 - - -
 
-Another small updates: `**Note**` (case-sensitive) at the beginning of blockquotes will be transformed to a blue one with icon.
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
 
-> **Note** xxx
-> > **Note** what about inner ones?
-> 
-> **Note** well, it is easy to write a regex though --
-> ```rb
-> /^>\s*\*\*Note\*\*/
-> ```
-> `> **Note** xxx`
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+Test color codes: `#39c5bb`.
