@@ -17,10 +17,10 @@ There's a little bug in inline latex expressions, you can only trigger it via ei
 
 - - -
 
-> [!NOTE]
+> [!Note]
 > Highlights information that users should take into account, even when skimming.
 
-> [!IMPORTANT]
+> [!important]
 > Crucial information necessary for users to succeed.
 
 > [!WARNING]
