@@ -1,3 +1,5 @@
+Keyboard: <kbd>ctrl</kbd>.
+
 ```mermaid
 graph TD;
     A-->B;
